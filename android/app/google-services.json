@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272995278738",
+    "project_id": "urliftuser-bee29",
+    "storage_bucket": "urliftuser-bee29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272995278738:android:e5230daed619050230ab4b",
+        "android_client_info": {
+          "package_name": "com.urlift.taxirider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUYFYu2bE_2i1D9BISe-jFsGA6n9n5hGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
